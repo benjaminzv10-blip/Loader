@@ -17,7 +17,7 @@ local SUPPORT_URL = RuntimeConfig.SupportUrl or "https://discord.gg/D2AaBZFztV"
 local KEY_FILE = RuntimeConfig.KeyFile or "BenJaMinZhub_key.txt"
 local DEFAULT_LOADER_URL = RuntimeConfig.LoaderUrl or ""
 local LOADER_BY_PLACE = RuntimeConfig.LoadersByPlace or {
-    [97598239454123] = "https://api.luarmor.net/files/v4/loaders/9b2fcfe32e150461b7cdb000ad8e1954.lua",
+    [97598239454123] = "https://api.luarmor.net/files/v4/loaders/f9c2ce0ad3284c76269224838598c021.lua",
 }
 
 local Theme = {
